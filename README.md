@@ -8,12 +8,13 @@ The main concept is that the attendees will get a glimpse into what it’s like 
 
 The design will be based on one of the Amplify designs but built with a simplified set of EDS 2.0 tokens. 
 
-Some things to consider:
+## Some things to consider:
 - Will there be a storybook?
 - Should we just use vanilla html?
 
-Topics:
+## Topics:
 - Class toggling for menu collapsing
   - Extra assignment can be to add an animation
 
-
+## Documentation:
+- The documentation should be comments in the code, to encourage exploration
