@@ -17,4 +17,7 @@ The design will be based on one of the Amplify designs but built with a simplifi
   - Extra assignment can be to add an animation
 
 ## Documentation:
-- The documentation should be comments in the code, to encourage exploration
+- We will start by using view source in the browser, so the documentation should be comments in the code, to encourage exploration
+
+## Conclusion
+- End the workshop with showing how the template we’ve used can be re-used into making their own personal website
