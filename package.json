@@ -1,0 +1,27 @@
+{
+  "name": "@equinor-playground/tenk-workshop",
+  "version": "0.1.0",
+  "description": "A sneak peek into what it’s like working as a front end developer",
+  "license": "MIT",
+  "private": true,
+  "author": "Victor Nystad <vnys@equinor.com>",
+  "contributors": [],
+  "repository": "github:equinor-playground/tenk-workshop",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.1.0",
+    "@storybook/addon-interactions": "^7.1.0",
+    "@storybook/addon-links": "^7.1.0",
+    "@storybook/addon-storysource": "^7.1.0",
+    "@storybook/blocks": "^7.1.0",
+    "@storybook/html": "^7.1.0",
+    "@storybook/html-vite": "^7.1.0",
+    "@storybook/testing-library": "^0.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.1.0"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  }
+}
