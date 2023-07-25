@@ -12,6 +12,9 @@ The design will be based on one of the Amplify designs but built with a simplifi
 - Will there be a storybook?
 - Should we just use vanilla html?
 
+## Storybook
+The jury is still out on whether we should use Storybook in the workshop, but I’ve included it anyway as a way to prepare the workshop components.
+
 ## Topics:
 - Class toggling for menu collapsing
   - Extra assignment can be to add an animation
