@@ -4,7 +4,7 @@ A 1.5 hour workshop on creating interfaces with HTML, CSS and Javascript for the
 
 ~The workshop is based on using [Glitch](https://glitch.com/), a free online platform for creating web apps.~
 
-**Update Aug 5:** Unfortunately Glitch is too unstable, the preview and tools buttons don’t work, can’t risk that in the workshop – we need a Plan B. Considering Codepen, which could be a better option anyway considering the time constraints.
+**Update Aug 5:** Unfortunately Glitch is too unstable, the preview and tools buttons don’t work, can’t risk that in the workshop – we need a Plan B. We’ll use Github and Codespaces for the actual workshop, and Codepen to demonstrate core concepts. The attendees will create a Github account, clone a template, and use Codespaces.
 
 The main concept is that the attendees will get a glimpse into what it’s like working as a frontend developer, there’s not enough time to learn everything from scratch in just 1.5 hours. So there will be an app that’s half made with design tokens as custom properties based on open props. We will record a video of a fictional colleague who was supposed to make a mockup of a design, but who got fed up with the bad weather and went on holiday. Before she left she added TODO comments in the code on what has to be finished. That way the girls who are curious and pro-active will find new tasks when exploring the code, while the main topics will be discussed and demonstrated for everyone.
 
