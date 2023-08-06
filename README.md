@@ -27,6 +27,7 @@ The jury is still out on whether we should use Storybook in the workshop, but I�
 - Chris Heilmann has some posts on [debugging](https://christianheilmann.com/2022/01/26/a-launch-json-setting-for-end-to-end-web-development/) and [tasks](https://christianheilmann.com/2022/03/17/automatically-starting-a-server-when-starting-a-debug-session-in-vs-code/) for another time. I set up Browser-sync as a background process using postStartCommand initially. Then thought I’d make it a bash-script. Then a task, with an extension to start and stop the process. Kept the postStartCommand as a comment, just in case we want to go back to that.
 - (Modern CSS for component based architecture)[https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/] for best practises and examples
 - [Duolingo blog post on postStartCommand](https://blog.duolingo.com/developer-onboarding-with-github-codespaces/). I still think it would be a good idea to just use a bash-script, but couldn’t get it to work the way I wanted to. Would be nice if there was an extension that allowed you to run bash scripts from the explorer. Found one that didn’t work.
+- [Another one from podman on postStartCommand](https://podman-desktop.io/blog/develop-using-devcontainer).
 
 ## Documentation:
 - We will start by using view source in the browser, so the documentation should be comments in the code, to encourage exploration
