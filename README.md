@@ -21,6 +21,11 @@ The jury is still out on whether we should use Storybook in the workshop, but I�
 - Class toggling for menu collapsing
   - Extra assignment can be to add an animation
 
+## Resources:
+- [Custom Emmet snippets](https://www.smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/) to create annotated skeletons for example
+- [How to run a frontend workshop in Codespaces](https://dev.to/github/how-to-run-a-frontend-workshop-in-codespaces-2ede) for ideas, I tried using Codetour and Codeswing but it just didn’t work and hasn’t been maintained either, so decided against it. Still some cool thoughts and ideas.
+- Chris Heilmann has some posts on [debugging](https://christianheilmann.com/2022/01/26/a-launch-json-setting-for-end-to-end-web-development/) and [tasks](https://christianheilmann.com/2022/03/17/automatically-starting-a-server-when-starting-a-debug-session-in-vs-code/) for another time. I set up Browser-sync as a background process using postStartCommand initially. Then thought I’d make it a bash-script. Then a task, with an extension to start and stop the process. Kept the postStartCommand as a comment, just in case we want to go back to that.
+
 ## Documentation:
 - We will start by using view source in the browser, so the documentation should be comments in the code, to encourage exploration
 
